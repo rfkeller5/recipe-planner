@@ -5,7 +5,7 @@ import { AppComponent } from './app.component';
 import { HeaderComponent } from './header/header.component';
 
 // Global Components
-import { RecipesComponent } from './recipes/recipes.component';
+import { RecipesComponent } from './shared/recipes/recipes.component';
 
 // Shopping List Components
 import { ShoppingListComponent } from './shopping_list/shopping-list/shopping-list.component';
